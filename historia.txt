@@ -1,0 +1,6 @@
+Esta es la primera practica de git
+
+estamos a 10 de marzo del 20200
+
+hoy hacemos un nuevo curso
+
