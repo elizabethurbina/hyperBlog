@@ -1,7 +1,10 @@
 Esta es la primera practica de git
 
-estamos a 10 de marzo del 20200
+estamos a 10 de marzo del 2022
 
 hoy hacemos un nuevo curso
 
-son muchos los cursos que quiero sacar
+Este el tercer dia de practica del 
+cureso, espero poder terminarlo pronto
+
+
